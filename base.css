@@ -9,6 +9,7 @@
  * components.css.......Own CSS for the components that build up the page.
  */
 
+
 /**
 * CONTENTS
 *
@@ -21,6 +22,10 @@
 * Headings.............H1-H2 styles.
 * Base font............Base font style.
 */
+
+
+
+
 
 /*------------------------------------*\
   #VARIABLES
@@ -36,6 +41,10 @@
   --btn-secondary-color:  #7a3d12;
 }
 
+
+
+
+
 /*------------------------------------*\
   #BOX-SIZING
 \*------------------------------------*/
@@ -43,6 +52,10 @@
 * {
   box-sizing: border-box;
 }
+
+
+
+
 
 /*------------------------------------*\
   #MARGINS
@@ -60,6 +73,10 @@ nav, aside {
   margin-bottom:  .5em;
 }
 
+
+
+
+
 /*------------------------------------*\
   #HEADINGS
 \*------------------------------------*/
@@ -67,6 +84,10 @@ nav, aside {
 h1     { font-size:  clamp(18px, 5vw, 50px); }
 h2     { font-size:  clamp(15px, 4vw, 30px); }
 h1, h2 { margin:     min(7vh, 2.75rem) 0 1.05rem; }
+
+
+
+
 
 /*------------------------------------*\
   #BASE FONT
